@@ -42,6 +42,7 @@ Survey questions were designed to overcome global variation in SES and race, foc
 ## Contributors
 
 - Wambura Fobbs, Swarthmore College
+- Ha Nguyen, University of California, Davis
 - Isabella Nyambayo, Wrexham University
 - Sumeia Werfalli, University of Benghazi; Libyan International Medical University
 

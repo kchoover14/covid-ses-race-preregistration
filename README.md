@@ -6,7 +6,7 @@ This repository documents the pre-registration, ethics approval, and survey-desi
 
 If you reference this work, please cite the archived record: DOI: [10.6084/m9.figshare.32680581](https://doi.org/10.6084/m9.figshare.32680581)
 
-Suggested full citation: Hoover, K. C., Veldhuizen, M., Fobbs, W., Nguyen, H., Nyambayo, I., & Werfalli, S. (2022). COVID-19, Socio-Economic Status, and Race: A Survey-Based Research Project [Data set]. figshare. https://doi.org/10.6084/m9.figshare.32680581
+Suggested full citation: Hoover, K. C., Veldhuizen, M., Fobbs, W., Nguyen, H., Nyambayo, I., & Werfalli, S. (2026). COVID-19, Socio-Economic Status, and Race: A Survey-Based Research Project [Data set]. figshare. https://doi.org/10.6084/m9.figshare.32680581
 Authorship: K. C. Hoover and M. Veldhuizen are project leads; remaining authors are listed alphabetically.
 
 ## Summary

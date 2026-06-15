@@ -4,9 +4,10 @@ This repository documents the pre-registration, ethics approval, and survey-desi
 
 ## Citation
 
-If you reference this work, please cite the archived record:
+If you reference this work, please cite the archived record: DOI: [10.6084/m9.figshare.32680581](https://doi.org/10.6084/m9.figshare.32680581)
 
-DOI: [10.6084/m9.figshare.32680581](https://doi.org/10.6084/m9.figshare.32680581)
+Suggested full citation: Hoover, K. C., Veldhuizen, M., Fobbs, W., Nguyen, H., Nyambayo, I., & Werfalli, S. (2022). COVID-19, Socio-Economic Status, and Race: A Survey-Based Research Project [Data set]. figshare. https://doi.org/10.6084/m9.figshare.32680581
+Authorship: K. C. Hoover and M. Veldhuizen are project leads; remaining authors are listed alphabetically.
 
 ## Summary
 
@@ -15,6 +16,16 @@ SARS-CoV-2 attaches to particulate matter, and regions with higher pollution loa
 ## Status
 
 Survey questions were designed to overcome global variation in SES and race, focusing on household resources, individuals' assessments of their income and resources relative to others, and their perspective on whether they are viewed as a minoritized or marginalized group in their society. Additional questions were designed to address the study's specific goals. A small internal award from the University of Alaska Fairbanks College of Liberal Arts funded a balanced Qualtrics sample of American Black, Hispanic, and white respondents with household incomes below the United States poverty threshold, sized to detect an effect using GCCR study data. A follow-up survey in formr drew on existing GCCR survey responses and an additional existing GCCR dataset to address study questions beyond the US. The study was submitted to the University of Alaska Fairbanks Institutional Review Board for ethical approval on 15 July 2022.
+
+The collaborative phase of the project has concluded. The survey instrument and pre-registration are archived here as a citable record of the group's shared work, and the resulting data are held by individual researchers as described below.
+
+## Data and Credit
+
+- covid-ses-race-preregistration data (contains: IRB, survey instrument, and pre-registration): cited in all subsequent publications
+- socio-economic questions universalized for global work: Kara C. Hoover
+- All data in the repository are owned by Kara C. Hoover and Maria Veldhuizen, with the exception of:
+  - Food-preference data — Isabella Nyambayo
+  - Dry-mouth data — Sumeia Werfalli
 
 ## Repository Contents
 

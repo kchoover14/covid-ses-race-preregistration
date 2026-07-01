@@ -2,13 +2,6 @@
 
 This repository documents the pre-registration, ethics approval, and survey-design work undertaken by a multi-institution group studying the experience of smell and taste loss in marginalized populations during the COVID-19 pandemic. It is an archived record of the group's planning and instrument-development work and is preserved here with a citable DOI.
 
-## Citation
-
-If you reference this work, please cite the archived record: DOI: [10.6084/m9.figshare.32680581](https://doi.org/10.6084/m9.figshare.32680581)
-
-Suggested full citation: Hoover, K. C., Veldhuizen, M., Fobbs, W., Nguyen, H., Nyambayo, I., & Werfalli, S. (2026). COVID-19, Socio-Economic Status, and Race: A Survey-Based Research Project [Data set]. figshare. https://doi.org/10.6084/m9.figshare.32680581
-Authorship: K. C. Hoover and M. Veldhuizen are project leads; remaining authors are listed alphabetically.
-
 ## Summary
 
 SARS-CoV-2 attaches to particulate matter, and regions with higher pollution loads have higher COVID-19 infection and mortality rates. Racial minorities and socio-economically disadvantaged groups carry higher pollution burdens and poorer air quality. In the US and UK, these groups also have higher COVID-19 infection and mortality rates and more severe disease progression. Because pollution and poor air quality also impair olfactory ability, this project asks whether smell and/or taste loss, in the absence of other symptoms, is a key indicator of COVID-19 infection in these groups, who may already have pre-existing smell and taste disorders from poor air quality. A data gap exists because smell testing only recently entered national health initiatives in the US, and pandemic clinical practice has not routinely collected race and ethnicity data. The study is survey-based and aims to collect information about the experience of smell and taste loss in marginalized groups globally.
